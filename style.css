@@ -1,8 +1,16 @@
 p {
   color: red;
-  font: gabriola;
+  font: fira-code;
 }
 
 h1 {
   color: green;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: #000;
 }
