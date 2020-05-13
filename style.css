@@ -5,10 +5,12 @@ p {
 
 h1 {
   color: green;
+  font: 100;
 }
 
 h2 {
   color: green;
+  color: aliceblue;
 }
 
 h3 {
